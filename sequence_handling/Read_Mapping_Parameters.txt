@@ -1,0 +1,5 @@
+Read_Length	RM_THRESHOLD
+100	85
+150	125
+35	25
+75	65
